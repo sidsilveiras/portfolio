@@ -203,6 +203,7 @@ ul {
 
 .projeto img {
   max-width: 250px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
 }
 
 .projeto a {
@@ -216,6 +217,7 @@ ul {
   padding: 8px 24px;
   border-radius: 8px;
   margin-top: 24px;
+  box-shadow: 8px 8px 5px rgba(0,0,0,0.6);
 }
 
 footer {
