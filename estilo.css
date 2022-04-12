@@ -117,7 +117,7 @@ ul {
 
 .coluna-maior {
   margin-left: 24px;
-}
+  }
 
 .coluna-maior h2 {
   font-family: "Open Sans", serif;
@@ -217,7 +217,7 @@ ul {
   padding: 8px 24px;
   border-radius: 8px;
   margin-top: 24px;
-  box-shadow: 8px 8px 5px rgba(0,0,0,0.6);
+  box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.6);
 }
 
 footer {
