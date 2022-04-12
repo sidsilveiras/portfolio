@@ -1,0 +1,226 @@
+h1,
+h2,
+h3,
+body,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Open Sans", serif;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.profissao {
+  font-size: 18px;
+}
+
+.t60 {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+header {
+  background-color: white;
+  padding: 32px 64px;
+}
+
+main {
+  padding: 40px 70px;
+  display: flex;
+}
+
+.dados {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.foto {
+  max-width: 250px;
+  border: 4px solid #ffc700;
+  border-radius: 50%;
+  margin-bottom: -120px;
+  margin-right: 24px;
+}
+
+ol,
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.coluna-menor {
+  margin-top: 48px;
+}
+
+.coluna-menor h2 {
+  font-family: "Open Sans", serif;
+  font-size: 20px;
+}
+
+.linha {
+  width: 80px;
+  border-top: 2px solid;
+  margin-top: 8px;
+}
+
+.experiencias .linha {
+  border-color: #4200ff;
+}
+
+.formacao .linha {
+  border-color: #ffc700;
+}
+
+.coluna-menor img {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  margin-right: 16px;
+}
+
+.coluna-menor li {
+  margin-top: 32px;
+  width: 250px;
+  display: flex;
+  font-size: 14px;
+}
+
+.conteudo {
+  display: inline-block;
+}
+
+.periodo {
+  margin-top: 6px;
+}
+.formacao {
+  margin-top: 32px;
+}
+
+.coluna-maior {
+  margin-left: 24px;
+}
+
+.coluna-maior h2 {
+  font-family: "Open Sans", serif;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.habilidades {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.habilidade {
+  background-color: white;
+  border-radius: 16px;
+  padding: 24px;
+  margin-top: 4px;
+  margin-right: 24px;
+  margin-bottom: 24px;
+  width: 220px;
+}
+
+.habilidade h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.habilidade p {
+  font-size: 14px;
+}
+
+.habilidade li {
+  margin-top: 32px;
+}
+
+.habilidade li:first-child {
+  margin-top: 0px;
+}
+
+.progresso {
+  width: 100%;
+  display: flex;
+}
+
+.barra {
+  width: 20%;
+  height: 4px;
+  background-color: #4200ff;
+  margin-top: 8px;
+}
+
+.incompleto {
+  opacity: 0.2;
+}
+
+.projetos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.projeto {
+  width: 288px;
+  padding: 24px;
+  background-color: white;
+  border-radius: 16px;
+  margin: 18px;
+  margin-left: 0px;
+}
+
+.projeto h3 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.projeto p {
+  margin-top: 16px;
+  margin-bottom: 24px;
+  font-size: 14px;
+}
+
+.projeto img {
+  max-width: 250px;
+}
+
+.projeto a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  background-color: #4200ff;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 8px;
+  margin-top: 24px;
+}
+
+footer {
+  background-color: #14004d;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
