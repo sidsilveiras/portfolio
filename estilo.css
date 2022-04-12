@@ -44,7 +44,7 @@ header {
 }
 
 main {
-  padding: 40px 70px;
+  padding: 40px 0px 0px 70px;
   display: flex;
 }
 
@@ -116,8 +116,8 @@ ul {
 }
 
 .coluna-maior {
-  margin-left: 24px;
-  }
+  margin-left: 48px;
+}
 
 .coluna-maior h2 {
   font-family: "Open Sans", serif;
@@ -211,6 +211,7 @@ ul {
   text-decoration: none;
   text-align: center;
   font-family: "Open Sans", sans-serif;
+  font-size: 14px;
   font-weight: 600;
   background-color: #4200ff;
   color: white;
@@ -226,4 +227,5 @@ footer {
   padding: 20px;
   text-align: center;
   font-family: "Open Sans", sans-serif;
+  font-size: 10px;
 }
