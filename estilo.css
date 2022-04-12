@@ -179,10 +179,10 @@ ul {
 .projetos {
   display: flex;
   flex-wrap: wrap;
-  }
+}
 
 .projeto {
-  width: 288px;
+  width: 250px;
   padding: 24px;
   background-color: white;
   border-radius: 16px;
